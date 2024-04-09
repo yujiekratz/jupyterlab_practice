@@ -1,0 +1,5 @@
+name: practice_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/yujiekratz/miniconda3/envs/practice_env
